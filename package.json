@@ -48,7 +48,7 @@
     "@babel/core": "^7.10.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.10.1",
     "@babel/preset-env": "^7.10.2",
-    "@babel/register": "^7.0.0",
+    "@babel/register": "^7.10.1",
     "babel-eslint": "^10.0.1",
     "commitizen": "^3.0.5",
     "cz-conventional-changelog": "^2.1.0",
